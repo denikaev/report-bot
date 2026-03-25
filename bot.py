@@ -1,4 +1,7 @@
 
+
+if __name__ == "__main__":
+          asyncio.run(main())
 import asyncio
 import logging
 import os
